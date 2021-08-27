@@ -1,3 +1,3 @@
 # Gaze-Tracking-DNN
-Creatign a DNN model to predict gaze 
+Creating a DNN model to predict gaze 
 
